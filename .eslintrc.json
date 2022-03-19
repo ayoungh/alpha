@@ -1,3 +1,29 @@
 {
-  "extends": "next/core-web-vitals"
+  "root": true,
+  "extends": [
+    "next/core-web-vitals",
+    "react-app",
+    "react-app/jest",
+    "eslint:recommended",
+    "plugin:@typescript-eslint/recommended"
+  ],
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "project": [
+      "./tsconfig.json"
+    ]
+  },
+  "plugins": [
+    "@typescript-eslint"
+  ],
+  "rules": {
+    "no-console": 1,
+    "eqeqeq": 1,
+    "no-constant-condition": 1,
+    "@typescript-eslint/no-empty-function": 1,
+    "@typescript-eslint/no-explicit-any": 1,
+    "@typescript-eslint/ban-types": 1,
+    "@typescript-eslint/ban-ts-comment": 1,
+    "@typescript-eslint/no-empty-interface": 1
+  }
 }
