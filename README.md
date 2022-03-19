@@ -1,5 +1,15 @@
-# Alpha
+# 🐺 Alpha 
 
+Start a new repo using this project, click [here](https://github.com/ayoungh/alpha/generate).
+
+## 🚀 One click deploy
+
+Clone the repository and one-click deploy to Vercel for free!
+
+[![Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/ayoungh/alpha)
+
+
+---
 
 This is my own starter repo to use for future projects.
 
