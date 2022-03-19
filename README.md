@@ -1,4 +1,38 @@
+# Alpha
+
+
+This is my own starter repo to use for future projects.
+
+Project Structure
+
+```
+└── src/
+    ├── constants/
+    ├── layouts/
+    ├── services/
+    ├── pages/
+    ├── components/
+    │   ├── button/
+    │   ├── card/
+    │   ├── checkbox/
+    │   ├── footer/
+    │   ├── header/
+    │       ├── index.ts
+    │       └── subComponent.tsx
+    │       └── subComponent.tsx
+    ├── contexts/
+    │   │   
+    │   └── ExampleContext.js
+    └── hooks/
+        │   
+        └── useHook.js
+```
+
+---
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
 
 ## Getting Started
 
