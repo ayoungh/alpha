@@ -1,5 +1,7 @@
 # 🐺 Alpha 
 
+![Alpha](/public/alpha.png "Alpha")
+    
 Start a new repo using this project, click [here](https://github.com/ayoungh/alpha/generate).
 
 ## 🚀 One click deploy
